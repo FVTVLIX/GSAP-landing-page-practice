@@ -12,7 +12,7 @@ Trying out new landing page styling with a more advanced approach. Implementing 
 
 ## Image 
 
-![](showcase.mov)
+![](https://media3.giphy.com/media/EXjd7tMrMQcb8LIRL5/giphy.gif)
 
 <br>
 
